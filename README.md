@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **itsnishanth28@gmail.com**
 
-- ⚡ Fun fact **I think I am sarcatic but not really...**
+- ⚡ Fun fact **I think I am sarcatic but not really....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
