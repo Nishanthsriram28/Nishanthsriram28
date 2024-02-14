@@ -1,4 +1,4 @@
-<img src="C:\Users\HP\Desktop\Files of Nishanth">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2021%2F02%2F23%2Ftechnology%2Fai-innovation-privacy-seniors-education.html&psig=AOvVaw1QS84ykmM98KFoQu1vdnm7&ust=1707986795071000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi7wue4qoQDFQAAAAAdAAAAABAI">
 <h1 align="center">Hi 👋, I'm Nishanth Sriram</h1>
 <h3 align="center">A passionate frontend developer, Tech and AI Entusiast from India</h3>
 
