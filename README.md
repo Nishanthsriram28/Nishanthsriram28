@@ -1,4 +1,4 @@
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="C:\Users\HP\Desktop\Files of Nishanth">
 <h1 align="center">Hi 👋, I'm Nishanth Sriram</h1>
 <h3 align="center">A passionate frontend developer, Tech and AI Entusiast from India</h3>
 
