@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **html5, css3 , Tailwind , javascript , c, c++,**
 
-- 📫 How to reach me **itsnishanth28@gmail.com**
+- 📫 How to reach me **itsnishanth24@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/nishanth-sriram-2026452a6/](https://www.linkedin.com/in/nishanth-sriram-2026452a6/)
 
