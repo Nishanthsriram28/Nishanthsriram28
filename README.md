@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishanthsriram28" alt="nishanthsriram28" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/itsnishanth28" target="blank"><img src="https://img.shields.io/twitter/follow/itsnishanth28?logo=twitter&style=for-the-badge" alt="itsnishanth28" /></a> </p>
 
 - 🔭 I’m currently working on **Javascript**
 
@@ -16,9 +15,9 @@
 
 - 💬 Ask me about **html5, css3 , Tailwind , javascript , c, c++,**
 
-- 📫 How to reach me **itsnishanth24@gmail.com**
+- 📫 How to reach me
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nishanth-sriram-2026452a6/](https://www.linkedin.com/in/nishanth-sriram-2026452a6/)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I also love to play games rathar than coding ..**
 
